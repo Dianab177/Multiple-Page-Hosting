@@ -12,7 +12,7 @@ a{
     color: rgb(185, 155, 116);
     text-decoration: none;
     font-size: 18px;
-    margin-right: 40px;
+    margin: 20px;
     text-align: center;
 }
 img{
@@ -31,7 +31,7 @@ p{
     align-items: center;
     max-width: 760px;
     border: solid 2px rgb(185, 155, 116);
-    padding: 60px;
+    padding: 30px;
     margin: 0 auto;
     background-color: white;
 }
